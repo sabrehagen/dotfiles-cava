@@ -1,5 +1,6 @@
 [general]
-bar_width = 5
+bar_width = 2
+overshoot = 20
 
 [color]
 gradient = 1
